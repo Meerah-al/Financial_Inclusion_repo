@@ -1,0 +1,9 @@
+# Streamlit web app
+streamlit==1.39.0
+
+# Data manipulation
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.5.2
